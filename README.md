@@ -7,7 +7,7 @@ Use this project to make your first contribution to an open source project on Gi
 
 * Add your name to the 'CONTRIBUTORS.md' file
     
-* Add a simple script to say your favorate food in any language in script folder
+* Add a simple script to say your favorite food in any language in script folder, filename in the format of yourname_favoritefood.xx
 
 ## Getting started
 * Fork this repository
