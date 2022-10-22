@@ -6,6 +6,11 @@ Use this project to make your first contribution to an open source project on Gi
 ## How to contribute to this project
 
 * Add your name to the 'CONTRIBUTORS.md' file
+  ### Name: your name
+  - Place:
+  - Bio:
+  -GitHub:
+  
 * Add a simple script to say your favorate food in any language in script folder
 
 ## Getting started
