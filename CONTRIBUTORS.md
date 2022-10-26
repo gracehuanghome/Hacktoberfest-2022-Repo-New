@@ -7,3 +7,9 @@
  - Place: Bellevue, WA/USA
  - Bio: High School Student. 
  - GitHub: [hannah wang](https://github.com/hqnnahwang)
+
+
+ #### Name: Roberto
+ - Place: Tokyo, Japan
+ - Bio: Software Engineer. 
+ - GitHub: [roberto tambunan](https://github.com/robertotambunan)
